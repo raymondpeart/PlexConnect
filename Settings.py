@@ -17,7 +17,7 @@ def getPort_PMS():
 #
 # DNS/WebServer
 def getIP_DNSmaster():  # Router, ISP's DNS, ...
-    return '8.8.8.8'  # google public DNS
+    return '64.71.255.204'  # google public DNS
 
 def getHostToIntercept():
     return 'trailers.apple.com'
